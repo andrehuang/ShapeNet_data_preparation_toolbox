@@ -1,4 +1,4 @@
-# ShapeNet Data Preparation Toolbox
+# GeodesicCNN Data Preparation Toolbox
 Matlab toolbox to prepare datasets for ShapeNet as described in
 *ShapeNet: Convolutional Neural Networks on Non-Euclidean Manifolds*
 http://arxiv.org/abs/1501.06297
